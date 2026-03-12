@@ -1,4 +1,4 @@
-# PassCode – Strong Password Generator
+# PassCode Creator – Strong Password Generator
 
 PassCode is a simple password generator designed to create strong and secure passwords directly on your device.
 
